@@ -1,4 +1,4 @@
-@charset "utf-8";
+a:4:{s:4:"root";s:84:"/var/www/html/shine/components/com_kunena/template/jsn_shine/assets/less/kunena.less";s:8:"compiled";s:71131:"@charset "utf-8";
 #kunena.layout .red {
   color: #e80f22 !important;
 }
@@ -2853,3 +2853,4 @@
 #kunena.layout .tweet-actions li {
   list-style: none;
 }
+";s:5:"files";a:11:{s:84:"/var/www/html/shine/components/com_kunena/template/jsn_shine/assets/less/kunena.less";i:1549138321;s:87:"/var/www/html/shine/components/com_kunena/template/jsn_shine/assets/less/variables.less";i:1549138321;s:84:"/var/www/html/shine/components/com_kunena/template/jsn_shine/assets/less/quirks.less";i:1549138321;s:85:"/var/www/html/shine/components/com_kunena/template/jsn_shine/assets/less/general.less";i:1549138321;s:84:"/var/www/html/shine/components/com_kunena/template/jsn_shine/assets/less/editor.less";i:1549138321;s:83:"/var/www/html/shine/components/com_kunena/template/jsn_shine/assets/less/icons.less";i:1549138321;s:82:"/var/www/html/shine/components/com_kunena/template/jsn_shine/assets/less/user.less";i:1549138321;s:85:"/var/www/html/shine/components/com_kunena/template/jsn_shine/assets/less/profile.less";i:1549138321;s:88:"/var/www/html/shine/components/com_kunena/template/jsn_shine/assets/less/categories.less";i:1549138321;s:90:"/var/www/html/shine/components/com_kunena/template/jsn_shine/assets/less/mediaqueries.less";i:1549138321;s:85:"/var/www/html/shine/components/com_kunena/template/jsn_shine/assets/less/twitter.less";i:1549138321;}s:7:"updated";i:1549141632;}
