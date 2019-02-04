@@ -1,1 +1,1 @@
-<?php die("Access Denied"); ?>#x#O:8:"stdClass":2:{s:5:"route";s:8:"texturas";s:6:"Itemid";s:3:"398";}
+<?php die("Access Denied"); ?>#x#O:8:"stdClass":2:{s:5:"route";s:8:"texturas";s:6:"Itemid";i:0;}
