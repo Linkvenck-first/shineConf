@@ -8,3 +8,4 @@
 2019-02-02 21:09:04 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://1630045-draven.me/shine/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
 2019-02-02 21:09:43 ERROR vmError: Warning, the Safe Path is &lt;b&gt;not accessible&lt;/b&gt; (does not exist or no permission). Use this link to the &lt;a href='http://1630045-draven.me/shine/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
 2019-02-02 21:10:07 ERROR vmError: COM_VIRTUEMART_CANNOT_STORE_CONFIG
+2019-02-02 21:58:09 ERROR vmError: The parameter &lt;em&gt;Merchant e-mail&lt;/em&gt; is required for the payment &lt;em&gt;Paypal&lt;/em&gt; (&lt;em&gt;  2&lt;/em&gt;)
